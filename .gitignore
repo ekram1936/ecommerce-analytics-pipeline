@@ -1,0 +1,20 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Delta Lake local storage
+delta-lake/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
